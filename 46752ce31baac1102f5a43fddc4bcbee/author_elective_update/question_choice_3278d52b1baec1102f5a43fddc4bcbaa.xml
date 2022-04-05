@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>1</order>
+        <published_ref display_value="Linkedin">710d05671b6ec1102f5a43fddc4bcb0d</published_ref>
+        <question display_value="Platform">7a78d52b1baec1102f5a43fddc4bcba2</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 05:45:21</sys_created_on>
+        <sys_id>3278d52b1baec1102f5a43fddc4bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Linkedin</sys_name>
+        <sys_package display_value="Social Media Post" source="x_786606_social_me">46752ce31baac1102f5a43fddc4bcbee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Post">46752ce31baac1102f5a43fddc4bcbee</sys_scope>
+        <sys_update_name>question_choice_3278d52b1baec1102f5a43fddc4bcbaa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 05:45:21</sys_updated_on>
+        <text>Linkedin</text>
+        <value>linkedin</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=3278d52b1baec1102f5a43fddc4bcbaa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Post">46752ce31baac1102f5a43fddc4bcbee</application>
+        <file_path/>
+        <instance_id>b9d5b320dba7d3847d8cf22ebf961998</instance_id>
+        <instance_name>dev66909</instance_name>
+        <name>question_choice_3278d52b1baec1102f5a43fddc4bcbaa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>1</order><published_ref display_value="Linkedin">710d05671b6ec1102f5a43fddc4bcb0d</published_ref><question display_value="Platform">7a78d52b1baec1102f5a43fddc4bcba2</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-05 05:45:21</sys_created_on><sys_id>3278d52b1baec1102f5a43fddc4bcbaa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Linkedin</sys_name><sys_package display_value="Social Media Post" source="x_786606_social_me">46752ce31baac1102f5a43fddc4bcbee</sys_package><sys_policy/><sys_scope display_value="Social Media Post">46752ce31baac1102f5a43fddc4bcbee</sys_scope><sys_update_name>question_choice_3278d52b1baec1102f5a43fddc4bcbaa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-05 05:45:21</sys_updated_on><text>Linkedin</text><value>linkedin</value></question_choice><fx_price action="delete_multiple" query="id=3278d52b1baec1102f5a43fddc4bcbaa"/></record_update>]]></payload>
+        <payload_hash>535415027</payload_hash>
+        <record_name>Linkedin</record_name>
+        <reverted_from/>
+        <source>aad5e4671baac1102f5a43fddc4bcb38</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 05:45:21</sys_created_on>
+        <sys_id>7e78d52b1baec1102f5a43fddc4bcbac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ff84195480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 05:45:21</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>f278d52b5baec11062c2b4c66570cbac</update_guid>
+        <update_guid_history>f278d52b5baec11062c2b4c66570cbac:535415027</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Linkedin">835dd1af1baec1102f5a43fddc4bcb1b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-05 06:06:40</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>52b5496561b543fb843196d755102659</sys_id>
+        <sys_metadata>3278d52b1baec1102f5a43fddc4bcbaa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Linkedin</sys_name>
+        <sys_package display_value="Social Media Post" source="x_786606_social_me">46752ce31baac1102f5a43fddc4bcbee</sys_package>
+        <sys_parent display_value="">7a78d52b1baec1102f5a43fddc4bcba2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Post">46752ce31baac1102f5a43fddc4bcbee</sys_scope>
+        <sys_scope_delete display_value="">6a31dc918e66464cbd7828fa1a5a5729</sys_scope_delete>
+        <sys_update_name>question_choice_3278d52b1baec1102f5a43fddc4bcbaa</sys_update_name>
+        <sys_update_version display_value="question_choice_3278d52b1baec1102f5a43fddc4bcbaa">7e78d52b1baec1102f5a43fddc4bcbac</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-04-05 06:06:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

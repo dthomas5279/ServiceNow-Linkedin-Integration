@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD216efc2bdc2ec110a82c37ef71c8b47b</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>46752ce31baac1102f5a43fddc4bcbee</scope_name>
+        <serialized_content>{"FlowDesigner:FD216efc2bdc2ec110a82c37ef71c8b47b":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD216efc2bdc2ec110a82c37ef71c8b47b.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":null,\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"7c11759d-c7e4-4de2-a1cb-d881fd52f746\",\"uiTypeLabel\":\"\",\"co_type_name\":\"FD216efc2bdc2ec110a82c37ef71c8b47b\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"-1\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 03:51:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e16efc2b1b2ec1102f5a43fddc4bcb7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD216efc2bdc2ec110a82c37ef71c8b47b</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Social Media Post" source="x_786606_social_me">46752ce31baac1102f5a43fddc4bcbee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Post">46752ce31baac1102f5a43fddc4bcbee</sys_scope>
+        <sys_update_name>sys_complex_object_e16efc2b1b2ec1102f5a43fddc4bcb7b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 03:51:24</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

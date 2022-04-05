@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_post_content" label="Post Content" language="en" table="x_786606_social_me_social_media">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_post_content</element>
+            <help/>
+            <hint/>
+            <label>Post Content</label>
+            <language>en</language>
+            <name>x_786606_social_me_social_media</name>
+            <plural>Post Contents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-05 04:45:35</sys_created_on>
+            <sys_id>13ca8da31b6ec1102f5a43fddc4bcbb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Post Content</sys_name>
+            <sys_package display_value="Social Media Post" source="x_786606_social_me">46752ce31baac1102f5a43fddc4bcbee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Post">46752ce31baac1102f5a43fddc4bcbee</sys_scope>
+            <sys_update_name>sys_documentation_x_786606_social_me_social_media_u_post_content_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-05 04:45:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

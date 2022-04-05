@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Social Media" max_length="40" name="x_786606_social_me_social_media" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Linkedin" max_length="40" name="u_linkedin" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Linkedin"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="linkedin" label="Platform" max_length="40" name="u_platform" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Linkedin" sequence="0" value="linkedin"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Post Content" mandatory="true" max_length="1250" name="u_post_content" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Schedule For" max_length="40" name="u_schedule_for" type="glide_date_time"/>
+    </element>
+</database>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <grant_type>authorization_code</grant_type>
+        <jwt_provider/>
+        <name>Linkedin (Social Media Post) default_profile</name>
+        <oauth_entity display_value="Linkedin (Social Media Post)">cd67ec271baac1102f5a43fddc4bcbaa</oauth_entity>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 02:12:21</sys_created_on>
+        <sys_id>aab76ca71baac1102f5a43fddc4bcb57</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Linkedin (Social Media Post) default_profile</sys_name>
+        <sys_package display_value="Social Media Post" source="x_786606_social_me">46752ce31baac1102f5a43fddc4bcbee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Post">46752ce31baac1102f5a43fddc4bcbee</sys_scope>
+        <sys_update_name>oauth_entity_profile_aab76ca71baac1102f5a43fddc4bcb57</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 02:19:13</sys_updated_on>
+    </oauth_entity_profile>
+</record_update>

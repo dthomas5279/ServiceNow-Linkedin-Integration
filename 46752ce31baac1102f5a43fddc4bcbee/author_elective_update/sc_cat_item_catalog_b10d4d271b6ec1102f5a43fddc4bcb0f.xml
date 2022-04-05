@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Post to Company Social Media">650d4d271b6ec1102f5a43fddc4bcb08</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 04:55:19</sys_created_on>
+        <sys_id>b10d4d271b6ec1102f5a43fddc4bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Post to Company Social Media</sys_name>
+        <sys_package display_value="Social Media Post" source="x_786606_social_me">46752ce31baac1102f5a43fddc4bcbee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Post">46752ce31baac1102f5a43fddc4bcbee</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b10d4d271b6ec1102f5a43fddc4bcb0f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 04:55:19</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Post">46752ce31baac1102f5a43fddc4bcbee</application>
+        <file_path/>
+        <instance_id>b9d5b320dba7d3847d8cf22ebf961998</instance_id>
+        <instance_name>dev66909</instance_name>
+        <name>sc_cat_item_catalog_b10d4d271b6ec1102f5a43fddc4bcb0f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Post to Company Social Media">650d4d271b6ec1102f5a43fddc4bcb08</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-05 04:55:19</sys_created_on><sys_id>b10d4d271b6ec1102f5a43fddc4bcb0f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Post to Company Social Media</sys_name><sys_package display_value="Social Media Post" source="x_786606_social_me">46752ce31baac1102f5a43fddc4bcbee</sys_package><sys_policy/><sys_scope display_value="Social Media Post">46752ce31baac1102f5a43fddc4bcbee</sys_scope><sys_update_name>sc_cat_item_catalog_b10d4d271b6ec1102f5a43fddc4bcb0f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-05 04:55:19</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1453280282</payload_hash>
+        <record_name>Service Catalog.Post to Company Social Media</record_name>
+        <reverted_from/>
+        <source>aad5e4671baac1102f5a43fddc4bcb38</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 04:55:19</sys_created_on>
+        <sys_id>310dc1671b6ec1102f5a43fddc4bcbf9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ff813c4ac0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 04:55:19</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>790dc1674a6ec110c18d6fe3c3171cf8</update_guid>
+        <update_guid_history>790dc1674a6ec110c18d6fe3c3171cf8:-1453280282</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Post to Company Social Media">fe5d91af1baec1102f5a43fddc4bcbff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-05 06:06:40</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>26da24303ff743c9a26ceb24640dadb1</sys_id>
+        <sys_metadata>b10d4d271b6ec1102f5a43fddc4bcb0f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Post to Company Social Media</sys_name>
+        <sys_package display_value="Social Media Post" source="x_786606_social_me">46752ce31baac1102f5a43fddc4bcbee</sys_package>
+        <sys_parent display_value="Post to Company Social Media">650d4d271b6ec1102f5a43fddc4bcb08</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Post">46752ce31baac1102f5a43fddc4bcbee</sys_scope>
+        <sys_scope_delete display_value="">6a31dc918e66464cbd7828fa1a5a5729</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_b10d4d271b6ec1102f5a43fddc4bcb0f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_b10d4d271b6ec1102f5a43fddc4bcb0f">310dc1671b6ec1102f5a43fddc4bcbf9</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-04-05 06:06:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
